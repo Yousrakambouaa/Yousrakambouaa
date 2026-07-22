@@ -6,7 +6,7 @@ while (true) { learn(); build(); improve(); }
 </pre>
 
 <p align="center">
-  <img src="66.jpg" width="900" alt="Banner">
+  <img src="99.jpg" width="900" alt="Banner">
 </p>
 
 <p align="center">
