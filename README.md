@@ -1,12 +1,12 @@
 <pre>
  <h3 align="center">
-  Full-Stack Developer & Software Engineer in the making
+  Full stack developer & software engineer in the making
 while (true) { learn(); build(); improve(); }
 </h3>
 </pre>
 
 <p align="center">
-  <img src="55.gif" width="900" alt="Banner">
+  <img src="99.jpg" width="900" alt="Banner">
 </p>
 
 <p align="center">
