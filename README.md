@@ -32,7 +32,7 @@ while (true) { learn(); build(); improve(); }
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yousrakambouaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img src="55.gif" width="900" alt="Banner">
+  <img src="99.jpg" width="900" alt="Banner">
 </p>
 
 
