@@ -6,6 +6,10 @@ while (true) { learn(); build(); improve(); }
 </pre>
 
 <p align="center">
+  <img src="bg.jpg" width="900" alt="Banner">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yousra-kambou%C3%A2-50ab52231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
