@@ -1,8 +1,9 @@
-		
-
-			    Full stack developer & software engineer in the making
-	    			while (true) { learn(); build(); improve(); }
-
+<pre>
+ <h3 align="center">
+  Full-Stack Developer & Software Engineer in the making
+while (true) { learn(); build(); improve(); }
+</h3>
+</pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousra-kambou%C3%A2-50ab52231/">
@@ -25,6 +26,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=Yousrakambouaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Yousrakambouaa&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yousrakambouaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 
 
 
